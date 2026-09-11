@@ -1,0 +1,24 @@
+{
+    "scenarios": [
+      {
+        "keywords": ["نورة", "سعر", "عرض", "اجتماع", "ملف"],
+        "file_name": "عرض_سعر_شركة_XYZ.pdf",
+        "sender": "نورة",
+        "channel": "WhatsApp",
+        "message_date": "14 أغسطس",
+        "message_text": "هذا العرض بعد التعديل لشركة XYZ، بانتظار ملاحظاتكم قبل الاجتماع.",
+        "related_meeting": "اجتماع مناقشة مشروع XYZ - 15 أغسطس",
+        "amount": "12,500 ريال"
+      },
+      {
+        "keywords": ["سارة", "تقرير", "أداء", "نمو"],
+        "file_name": "تقرير_الأداء_الشهري.xlsx",
+        "sender": "سارة",
+        "channel": "Email",
+        "message_date": "1 أغسطس",
+        "message_text": "مرفق تقرير النمو الشهري للقسم.",
+        "related_meeting": "اجتماع الإدارة العامة",
+        "amount": "غير مذكور"
+      }
+    ]
+  }
